@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hoa Hong",
+      "price": 400000,
+      "image": "https://vapa.vn/wp-content/uploads/2022/12/unnamed-file-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hoa Hong",
+      "price": 400000,
+      "image": "https://vapa.vn/wp-content/uploads/2022/12/unnamed-file-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hoa Hong",
+      "price": 400000,
+      "image": "https://vapa.vn/wp-content/uploads/2022/12/unnamed-file-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "hoa hong",
+      "price": "700000",
+      "image": "https://image-us.eva.vn/upload/3-2022/images/2022-08-12/image24-1660292012-373-width2048height1696.jpg"
+    },
+    {
+      "id": 5,
+      "name": "hoa hong update",
+      "price": "500000",
+      "image": "https://assets.flowerstore.ph/public/tenantVN/app/assets/images/variant/600_PJ0LKydN3Z0b2kJafgOZXCZJ8.webp"
+    },
+    {
+      "id": 6,
+      "name": "hoa hong",
+      "price": "900000",
+      "image": "https://galaxydidong.vn/wp-content/uploads/2020/08/samsung-galaxy-note-20-ultra-galaxydidong.jpg"
+    }
+  ]
+}
